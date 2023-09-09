@@ -1,7 +1,7 @@
 # COMP1010 VS Code Extension Pack
 
-This extension pack provides all the recommended extensions for completing
-UNSW's COMP1010 course.
+This extension pack provides all the recommended VS Code extensions for
+completing UNSW's COMP1010 course.
 
 ## Bundled extensions
 
