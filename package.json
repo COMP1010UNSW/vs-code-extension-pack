@@ -1,0 +1,20 @@
+{
+  "name": "extension-pack",
+  "displayName": "UNSW COMP1010 Extension Pack",
+  "description": "Official extension pack for COMP1010 students at UNSW",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "njpwerner.autodocstring",
+    "ms-python.autopep8",
+    "streetsidesoftware.code-spell-checker",
+    "ecmel.vscode-html-css",
+    "ritwickdey.LiveServer",
+    "ms-python.python"
+  ]
+}
