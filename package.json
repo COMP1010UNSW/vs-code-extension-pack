@@ -3,7 +3,7 @@
   "publisher": "comp1010unsw",
   "displayName": "UNSW COMP1010 Extension Pack",
   "description": "Official extension pack for COMP1010 students at UNSW",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/COMP1010UNSW/vs-code-extension-pack"
   },
@@ -19,6 +19,7 @@
     "streetsidesoftware.code-spell-checker",
     "ecmel.vscode-html-css",
     "ritwickdey.LiveServer",
-    "ms-python.python"
+    "ms-python.python",
+    "ms-toolsai.jupyter"
   ]
 }
