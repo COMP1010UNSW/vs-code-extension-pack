@@ -3,23 +3,25 @@
   "publisher": "comp1010unsw",
   "displayName": "UNSW COMP1010 Extension Pack",
   "description": "Official extension pack for COMP1010 students at UNSW",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "repository": {
     "url": "https://github.com/COMP1010UNSW/vs-code-extension-pack"
   },
   "engines": {
-    "vscode": "^1.82.0"
+    "vscode": "^1.98.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
+    "ms-python.python",
+    "ms-python.mypy-type-checker",
     "njpwerner.autodocstring",
-    "ms-python.autopep8",
-    "streetsidesoftware.code-spell-checker",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.datawrangler",
     "ecmel.vscode-html-css",
     "ritwickdey.LiveServer",
-    "ms-python.python",
-    "ms-toolsai.jupyter"
+    "streetsidesoftware.code-spell-checker",
+    "Gruntfuggly.todo-tree"
   ]
 }

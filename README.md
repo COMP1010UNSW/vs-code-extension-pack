@@ -11,12 +11,20 @@ to be resolved.
 
 ## Bundled extensions
 
+Python:
+
+* Python
 * autoDocstring
-* autopep8
-* Code Spell Checker
+* Mypy Type Checker
+* Jupyter
+* Data wrangler
+
+HTML and CSS:
+
 * HTML CSS Support
 * Live Server
-* Pylance
-* Python
-* Python Indent
+
+General programming:
+
+* Code Spell Checker
 * Todo Tree
